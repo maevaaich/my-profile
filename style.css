@@ -68,8 +68,8 @@ a:hover{
 .img-circle {
 	border-radius: 50%;
 }
-.btn-red {
-	background-color: red;
+.btn-blue {
+	background-color:#00CCBB;
 	color: white;
 	padding: 15px 20px;
 	border-radius: 4px;
